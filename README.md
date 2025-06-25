@@ -1,38 +1,20 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Muhammad Tahir</h1>
-<h3 align="center">A Computer Science student from Karachi, Pakistan, with a strong passion for full-stack development, AI, and system-level programming.</h3>
+<h3 align="center">A passionate Computer Science graduate from FAST NUCES, Karachi — exploring the world through code and innovation.</h3>
 
 <p align="center">
-  I'm a recent graduate in Computer Science from <strong>FAST (National University of Computer and Emerging Sciences)</strong>, with hands-on experience in building robust, scalable software systems. My work spans full-stack web development, system programming, API design, and backend integration with modern technologies.
+  I'm a recent graduate in Computer Science from <strong>FAST (National University of Computer and Emerging Sciences)</strong> and currently working as an <strong>Associate Software Developer at Ikhwatech</strong>. I specialize in building robust, scalable, and maintainable backend systems with modern frameworks.
 </p>
 
 <p align="center">
-  Whether it's designing APIs, integrating blockchain with backend services, or writing clean BLoC architecture in Flutter, I love building well-structured, maintainable software. I’m particularly intrigued by <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Blockchain</strong>, and I’ve explored these through academic and personal projects. Clean architecture, thoughtful testing (JUnit, Spring Boot, MockMvc), and attention to performance are core to how I work.
+  My expertise includes <strong>React.js</strong>, <strong>Express.js</strong>, <strong>Spring Boot</strong>, <strong>FastAPI</strong>, and <strong>Flutter</strong>. I also work with databases like <strong>PostgreSQL</strong> and <strong>MongoDB</strong>, and deploy using <strong>Docker</strong> and modern CI/CD pipelines. I enjoy building clean architectures, writing solid integration tests, and experimenting with AI and blockchain technologies.
 </p>
 
-- 👨‍💻 All of my projects are available at [**my portfolio**](https://my-portfolio-cman.onrender.com/)
+---
 
-- 💬 Ask me about:  
-  **React.js, Express, FastAPI, Spring Boot, PostgreSQL, GitHub Actions, Docker, Flutter, and CI/CD Pipelines**
+### 🛠️ Languages and Tools:
 
-- 📫 How to reach me:  
-  **mtahirkhanyousufzai@gmail.com**
-
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/19Jvfrqddhep1G2y3On6UrQDm097vc1tJ/view](https://drive.google.com/file/d/10_cfsW5-eMuIAsfHLctWd1IJsAuYRrFv/view?usp=sharing))
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-tahir-0ab1291b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tahir-0ab1291b2" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadtahir0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadtahir0307" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadtahir0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadtahir0307" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -52,16 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 
-  <!-- Web Development -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+  <!-- Web/Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
@@ -81,17 +54,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   </a>
 
-  <!-- Data Science / AI -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-
   <!-- Databases -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -103,7 +65,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
-  <!-- DevOps / Tools -->
+  <!-- AI / Data Science -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+
+  <!-- Tools & DevOps -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -121,7 +94,9 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-tahir0312&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -139,3 +114,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-tahir0312&theme=flat&no-frame=true&column=6" alt="Trophies"/>
 </p>
 
+---
+
+### 🔗 Portfolio & Contact
+
+- 🌐 **Portfolio**: [https://my-portfolio-cman.onrender.com/](https://my-portfolio-cman.onrender.com/)
+- 💼 **Current Role**: Associate Software Developer @ Ikhwatech
+- 📧 **Professional Email**: muhammad.tahir@ikhwatech.com
+- 📫 **General Contact**: tahirdev.cs@gmail.com
