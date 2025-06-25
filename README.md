@@ -121,4 +121,4 @@
 - 🌐 **Portfolio**: [https://my-portfolio-cman.onrender.com/](https://my-portfolio-cman.onrender.com/)
 - 💼 **Current Role**: Associate Software Developer @ Ikhwatech
 - 📧 **Professional Email**: muhammad.tahir@ikhwatech.com
-- 📫 **General Contact**: tahirdev.cs@gmail.com
+- 📫 **General Contact**: mtahirkhanyousufzai@gmail.com
