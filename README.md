@@ -3,15 +3,25 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Tahir</h1>
-<h3 align="center">A Computer Science enthusiast based in Karachi, Pakistan. Currently pursuing my Bachelor's degree in Computer Science at FAST (National University of Computer and Emerging Sciences), I've explored a diverse range of programming languages. From the elegance of C and C++ to the dynamic world of React.js and Node.js, I've tinkered with code to build web applications. HTML/CSS is my canvas, and Python is my Swiss Army knife— I use it for everything from data analysis to exploring AI concepts. Beyond syntax, I'm captivated by Artificial Intelligence and Machine Learning. The idea of teaching machines to learn and adapt fascinates me. Whether it's optimizing an algorithm or crafting an intuitive user interface, I thrive on turning ideas into reality.</h3>
+<h3 align="center">A Computer Science student from Karachi, Pakistan, with a strong passion for full-stack development, AI, and system-level programming.</h3>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-cman.onrender.com/](https://my-portfolio-cman.onrender.com/)
+<p align="center">
+  Currently pursuing my Bachelor's degree in Computer Science at FAST (National University of Computer and Emerging Sciences), I enjoy turning complex ideas into practical solutions. My experience spans from building responsive frontends in <strong>React.js</strong> to developing secure and scalable APIs with <strong>Node.js, Express</strong>, and <strong>FastAPI</strong>. I'm also well-versed in systems programming with <strong>C/C++</strong> and comfortable working with <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, and <strong>Docker</strong>.
+</p>
 
-- 💬 Ask me about **React, Express and Anything**
+<p align="center">
+  Whether it's designing APIs, integrating blockchain with backend services, or writing clean BLoC architecture in Flutter, I love building well-structured, maintainable software. I’m particularly intrigued by <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Blockchain</strong>, and I’ve explored these through academic and personal projects. Clean architecture, thoughtful testing (JUnit, Spring Boot, MockMvc), and attention to performance are core to how I work.
+</p>
 
-- 📫 How to reach me **mtahirkhanyousufzai@gmail.com**
+- 👨‍💻 All of my projects are available at [**my portfolio**](https://my-portfolio-cman.onrender.com/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19Jvfrqddhep1G2y3On6UrQDm097vc1tJ/view)
+- 💬 Ask me about:  
+  **React.js, Express, FastAPI, Spring Boot, PostgreSQL, GitHub Actions, Docker, Flutter, and CI/CD Pipelines**
+
+- 📫 How to reach me:  
+  **mtahirkhanyousufzai@gmail.com**
+
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/19Jvfrqddhep1G2y3On6UrQDm097vc1tJ/view](https://drive.google.com/file/d/10_cfsW5-eMuIAsfHLctWd1IJsAuYRrFv/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
